@@ -94802,6 +94802,26 @@
                     "value": "ReadStringFromStorage"
                   },
                   "parameters": [
+                    "\"Kemampuan\"",
+                    "\"Ahli\"",
+                    "",
+                    "AhliString"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "JSONToVariableStructure2"
+                  },
+                  "parameters": [
+                    "AhliString",
+                    "Ahli"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "ReadStringFromStorage"
+                  },
+                  "parameters": [
                     "\"NamaPlayer\"",
                     "\"NamaPlayer\"",
                     "",
