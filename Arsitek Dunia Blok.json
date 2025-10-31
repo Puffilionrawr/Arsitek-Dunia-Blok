@@ -22154,7 +22154,7 @@
                         "value": "Wait"
                       },
                       "parameters": [
-                        "3"
+                        "2"
                       ]
                     },
                     {
@@ -26771,7 +26771,7 @@
                             "value": "Wait"
                           },
                           "parameters": [
-                            "3"
+                            "2"
                           ]
                         },
                         {
@@ -32063,7 +32063,7 @@
                             "value": "Wait"
                           },
                           "parameters": [
-                            "3"
+                            "2"
                           ]
                         },
                         {
@@ -39927,6 +39927,19 @@
               "actions": [
                 {
                   "type": {
+                    "value": "PlaySoundCanal"
+                  },
+                  "parameters": [
+                    "",
+                    "Sound\\sfx\\pencet salah 1 di yang bagian menu garis 3 di in game - arsitek dunia balok.wav",
+                    "2",
+                    "",
+                    "SoundVolume",
+                    "1"
+                  ]
+                },
+                {
+                  "type": {
                     "value": "SetStringVariable"
                   },
                   "parameters": [
@@ -39988,6 +40001,19 @@
                 }
               ],
               "actions": [
+                {
+                  "type": {
+                    "value": "PlaySoundCanal"
+                  },
+                  "parameters": [
+                    "",
+                    "Sound\\sfx\\pencet salah 1 di yang bagian menu garis 3 di in game - arsitek dunia balok.wav",
+                    "2",
+                    "",
+                    "SoundVolume",
+                    "1"
+                  ]
+                },
                 {
                   "type": {
                     "value": "SetStringVariable"
@@ -52445,7 +52471,7 @@
                             "value": "Wait"
                           },
                           "parameters": [
-                            "3"
+                            "2"
                           ]
                         },
                         {
@@ -76317,7 +76343,7 @@
                             "value": "Wait"
                           },
                           "parameters": [
-                            "3"
+                            "2"
                           ]
                         },
                         {
@@ -86349,7 +86375,7 @@
                             "value": "Wait"
                           },
                           "parameters": [
-                            "3"
+                            "2"
                           ]
                         },
                         {
